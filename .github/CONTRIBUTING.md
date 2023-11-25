@@ -1,6 +1,4 @@
-We welcome and appreciate your contributions! In order to contribute to this repository, you must read the
-common [instructions](https://github.com/pysnippet/instructions#readme) of the PySnippet organization and follow the
-following guidelines:
+We welcome and appreciate your contributions! In order to contribute to this repository, please follow the guidelines:
 
 1. Fork the repository and create a new branch.
 2. Make your changes and run tests locally.
